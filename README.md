@@ -1,7 +1,7 @@
 # Data transformation with ``dplyr::``
 <img src="pngs/dplyr_guide_for_one_table.png" width=400 height=283 align="right"/>
 
-I have created this alternative cheat sheet (or guide) for those who already know a little about __dplyr__. The point of this cheat is to help you figuring out quickly which verb, suffix and arguments to use, in the context of data transformation applied to a single table of class ``tibble`` or ``data.frame``.
+I have created this alternative cheat sheet (or guide) for those who already know a little about __dplyr__. The point of this cheat is to help you figuring out quickly which verb, suffix and arguments to use -- in the context of data transformation applied to a single table of class ``tibble`` or ``data.frame``.
 
 As such the sheet complements and not substitute the official __dplyr__ cheat sheet available [here](https://github.com/rstudio/cheatsheets).
 
