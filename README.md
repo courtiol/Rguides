@@ -5,7 +5,7 @@ I have created this alternative cheat sheet (or guide) for those who already kno
 
 As such the sheet complements and does not substitute the official __dplyr__ cheat sheet which is available [here](https://github.com/rstudio/cheatsheets).
 
-Note that many __dplyr__ functions are not covered here; all the nice joining functions designed to work with pairs of tables but also many other functions.
+Note that many __dplyr__ functions are not covered here; all the nice joining functions designed to work with pairs of tables, but also many others.
 
 You should use the __PDF__ version of the cheat sheet for optimal quality and compatibility!
 
