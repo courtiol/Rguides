@@ -1,7 +1,13 @@
 # Data transformation with ``dplyr::``
+<img src="pngs/dplyr_guide_for_one_table.png" width=364 height=288 align="right"/>
 
-This guide to dplyr has been created in September 2019 using Libre Office with the type faces monaco for ``code``, Nimbus Sans for text & Source Sans Pro Light for the title.
+I created this alternative cheat sheet (or guide) for those who already know a little about __dplyr__. The point of this cheat is to help you figuring out quickly which verb, suffix and arguments to use.
 
-Please leave feedbacks or comments as issues.
+As such the sheet complements and not substitute the official __dplyr__ cheat sheet available [here](https://github.com/rstudio/cheatsheets).
 
-Volunters welcome to turn this into a durable LaTeX file (Libre Office formating is too fragile for my taste, but the amount of TikZ gymnastic required is a little daunting)
+This sheet to __dplyr__ has been created end of September 2019 using LibreOffice with the type faces _monaco_ for ``code``, _Nimbus Sans_ for the main text & _Source Sans Pro Light_ for the title.
+
+Please file feedbacks or comments as issues.
+
+Volunters who could turn this into a durable __LaTeX__ file are highly welcome (LibreOffice formating is too fragile for my taste, but the amount of __TikZ__ gymnastic required is a little daunting).
+
